@@ -1,0 +1,20 @@
+{
+  "name": "idv.jlchntoz.opencc4unity",
+  "version": "0.1.0",
+  "displayName": "OpenCC for Unity",
+  "description": "This is Open Chinese Convert ported to Unity C#.",
+  "licensesUrl": "https://github.com/JLChnToZ/OpenCC4Unity/blob/master/LICENSE",
+  "keywords": [
+    "OpenCC",
+    "Chinese",
+    "conversion",
+    "unicode",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "author": {
+    "name": "Jeremy Lam aka. Vistanz",
+    "email": "me@moka-rin.moe",
+    "url": "https://code.moka-rin.moe"
+  }
+}
