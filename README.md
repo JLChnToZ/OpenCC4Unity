@@ -8,9 +8,9 @@ This is [Open Chinese Convert](https://github.com/BYVoid/OpenCC/) ported to Unit
 using OpenCC.Unity;
 
 var converter = new OpenChineseConverter();
-convert.LoadFromResources();
+converter.LoadFromResources();
 
-var convertedText = convert.T2S("這一段用繁體中文寫的文字會變成簡體");
+var convertedText = converter.T2S("這一段用繁體中文寫的文字會變成簡體");
 Debug.Log(convertedText); // Output: 这一段用繁体中文写的文字会变成简体
 ```
 
